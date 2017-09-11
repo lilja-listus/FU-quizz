@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">FUQuiz</string>
+    <string name="app_title">How Much Do You Know About the Finno-Ugric World?</string>
+    <string name="answer_the_questions">Answer these questions: </string>
+    <string name="button_submit">Submit</string>
+    <string name="button_reset">Reset</string>
+
+    <!-- question one. -->
+
+    <string name="question_one">1. Choose the Finno-ugric languages:</string>
+    <string name="finnish">Finnish</string>
+    <string name="french">French</string>
+    <string name="hungarian">Hungarian</string>
+    <string name="russian">Russian</string>
+
+    <!-- Question two. -->
+    <string name="question_two">2. What country has the biggest amount of FU people?</string>
+    <string name="russia">Russia</string>
+    <string name="hungary">Hungary</string>
+    <string name="china">China</string>
+
+    <!-- Question three. -->
+
+    <string name="question_three">3. What is the capital of Hungary?</string>
+    <string name="hint">Type it here...</string>
+
+    <!-- Question four. -->
+
+    <string name="question_four">4. Which of these are real languages?</string>
+    <string name="komi">Komi</string>
+    <string name="sockish">Sockish</string>
+    <string name="udmurt">Udmurt</string>
+    <string name="rogalik">Rogalik</string>
+
+    <!-- Question five. -->
+
+    <string name="question_five">5. What is Syktyvkar?</string>
+    <string name="city">A city</string>
+    <string name="country">A country</string>
+    <string name="word">Just a weird word</string>
+
+    <!-- Question six. -->
+    <string name="question_six">6. What country do sami people live in?</string>
+    <string name="lapland">Lapland</string>
+    <string name="fiswenoru">Finland, Sweden, Norway and Russia</string>
+
+    <!-- Question seven. -->
+
+    <string name="question_seven">7. What is a sacred animal for most of the FU people?</string>
+    <string name="reindeer">Reindeer</string>
+    <string name="bear">Bear</string>
+    <string name="goose">Goose</string>
+
+
+
+</resources>
